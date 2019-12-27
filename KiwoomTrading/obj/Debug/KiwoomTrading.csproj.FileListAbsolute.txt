@@ -1,0 +1,15 @@
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\obj\Debug\KiwoomTrading.csprojAssemblyReference.cache
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\obj\Debug\KiwoomTrading.Form1.resources
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\obj\Debug\KiwoomTrading.Properties.Resources.resources
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\obj\Debug\KiwoomTrading.csproj.GenerateResource.cache
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\obj\Debug\KiwoomTrading.csproj.CoreCompileInputs.cache
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\bin\Debug\KiwoomTrading.exe.config
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\bin\Debug\KiwoomTrading.exe
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\bin\Debug\KiwoomTrading.pdb
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\obj\Debug\KiwoomTrading.csproj.ResolveComReference.cache
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\obj\Debug\KiwoomTrading.exe
+C:\Users\SongHeeJae\source\repos\KiwoomTrading\KiwoomTrading\obj\Debug\KiwoomTrading.pdb
